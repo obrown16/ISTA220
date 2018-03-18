@@ -14,5 +14,6 @@ The overall idea is a health assess application with a GUI. Once the user opens 
 
 Though the application is more focused on the athletes input, there is potential to creates another application that will allow the coach to submit their assessment of how the athlete has performed on a daily or weekly basis. The coaches or trainers input will then be compared to the information the athletes have submitted. By comparing the information, the coach or trainer can establish better training plans and better advise athletes on resources available to better their health to perform at their optimal level during competitions.
 
-Conclusion
+## Conclusion
+
 This project though appears simple, can have a large impact on how athletes assess their health and how coaches or trainers can use the information to optimize performance from each individual during competition.

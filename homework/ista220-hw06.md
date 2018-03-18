@@ -9,7 +9,7 @@ Discussion Questions:
 
 2. If the program executes without errors the try block if none of the statements generates an except it runs without the exception.
 
-3. The catch mechanism 
+3. Immediately after the try block, the catch mechanism handles any possible error condition. It is intended to capture and handle a specific type of exception.
 
 4. If an exception block fails to handle a particular error it terminates.
 

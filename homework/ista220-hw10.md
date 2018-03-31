@@ -1,6 +1,6 @@
 ## Oscar Brown
 ## 3/19/2018
-## chapter 10, pages 221 – 242
+## chapter 10, C#, pages 221 – 242
 
 1. What does an array look like in memory?
 An array lives in a contiguous block of memory and are accessed by using an index, unlike field of structure or class, which are accessed by name.
